@@ -1,0 +1,14 @@
+/Users/t2025-m0015/ConsoleApp1/NemonemoRPG/bin/Debug/net9.0/NemonemoRPG
+/Users/t2025-m0015/ConsoleApp1/NemonemoRPG/bin/Debug/net9.0/NemonemoRPG.deps.json
+/Users/t2025-m0015/ConsoleApp1/NemonemoRPG/bin/Debug/net9.0/NemonemoRPG.runtimeconfig.json
+/Users/t2025-m0015/ConsoleApp1/NemonemoRPG/bin/Debug/net9.0/NemonemoRPG.dll
+/Users/t2025-m0015/ConsoleApp1/NemonemoRPG/bin/Debug/net9.0/NemonemoRPG.pdb
+/Users/t2025-m0015/ConsoleApp1/NemonemoRPG/obj/Debug/net9.0/NemonemoRPG.GeneratedMSBuildEditorConfig.editorconfig
+/Users/t2025-m0015/ConsoleApp1/NemonemoRPG/obj/Debug/net9.0/NemonemoRPG.AssemblyInfoInputs.cache
+/Users/t2025-m0015/ConsoleApp1/NemonemoRPG/obj/Debug/net9.0/NemonemoRPG.AssemblyInfo.cs
+/Users/t2025-m0015/ConsoleApp1/NemonemoRPG/obj/Debug/net9.0/NemonemoRPG.csproj.CoreCompileInputs.cache
+/Users/t2025-m0015/ConsoleApp1/NemonemoRPG/obj/Debug/net9.0/NemonemoRPG.dll
+/Users/t2025-m0015/ConsoleApp1/NemonemoRPG/obj/Debug/net9.0/refint/NemonemoRPG.dll
+/Users/t2025-m0015/ConsoleApp1/NemonemoRPG/obj/Debug/net9.0/NemonemoRPG.pdb
+/Users/t2025-m0015/ConsoleApp1/NemonemoRPG/obj/Debug/net9.0/NemonemoRPG.genruntimeconfig.cache
+/Users/t2025-m0015/ConsoleApp1/NemonemoRPG/obj/Debug/net9.0/ref/NemonemoRPG.dll
